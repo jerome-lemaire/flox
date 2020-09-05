@@ -47,7 +47,7 @@ https://mydomain.com
 ### Features
 
 - API for Plex.
-  - Sync movies, shows and watched episodes from Plex to Flox.
+- Sync movies, shows and watched episodes from Plex to Flox.
 - Episode Tracking.
 - Suggestions.
 - Watchlist.
